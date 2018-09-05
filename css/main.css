@@ -38,13 +38,11 @@ body {
   font-size: 35px;
   color: white;
 }
-
-}
-.images{
-  width;100%
+.images img{
   display:block;
   border-width: thin;
-  padding:4px;width:100%
+  padding:4px;
+  width:100%;
 }
 .footer p {
   text-align: center;
